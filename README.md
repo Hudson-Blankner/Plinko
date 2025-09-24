@@ -1,5 +1,2 @@
 # Plinko
-dvsvd
-dsmflksdmlskm
-kvofxmvkxmv
-cxcmvklcxmcxvlk
+Plinko
